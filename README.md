@@ -27,5 +27,5 @@ When I first began working on this project I was familiar with Logistic Regressi
 
 ## TODO
 
--[ ] Perform more sensible EDA to find out which features are most highly correlated with winning.
--[ ] Configure a Random Forest Classifier model to train and evaluate.
+- [ ] Perform more sensible EDA to find out which features are most highly correlated with winning.
+- [ ] Configure a Random Forest Classifier model to train and evaluate.
