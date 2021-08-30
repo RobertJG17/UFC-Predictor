@@ -29,3 +29,8 @@ When I first began working on this project I was familiar with Logistic Regressi
 
 - [ ] Perform more sensible EDA to find out which features are most highly correlated with winning.
 - [ ] Configure a Random Forest Classifier model to train and evaluate.
+- [ ] Automate download of new datasets from Kaggle repo
+
+##  Acknowledgements
+
+This would not be possible without the Data consistently provided by [mdabbert](https://www.kaggle.com/mdabbert). I'm grateful that he takes the time to provide people with betting odds and relevant fighter data packed within a neatly formatted csv. 
