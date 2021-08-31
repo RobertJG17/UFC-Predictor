@@ -28,6 +28,7 @@ When I first began working on this project I was familiar with Logistic Regressi
 ## TODO
 
 - [ ] Perform more sensible EDA to find out which features are most highly correlated with winning.
+- [ ] - Add feature selection to README and other snippets showing relevant analysis of data.
 - [ ] Configure a Random Forest Classifier model to train and evaluate.
 - [ ] Automate download of new datasets from Kaggle repo
 
