@@ -20,7 +20,7 @@ for idx in pearson_corr.index:
 
 pearson_corr = pearson_corr.drop(ranks, axis=0)
 ```
-I then selected the ten features most highly correlated with winning from the original feature set: 
+I then selected the ten features most highly correlated with winning from the filtered feature set: 
 
 ```
 features = master.loc[:, 
