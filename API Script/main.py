@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def card_predictions():
+def predictions():
     results = get_results(model, cols, scaler)
 
     return jsonify(results)
